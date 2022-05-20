@@ -1,0 +1,39 @@
+{"level":"info","message":"email or password incorrect"}
+{"level":"info","message":"email or password incorrect"}
+{"level":"info","message":"email or password incorrect"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:47:39"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:48:24"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:50:50"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:51:01"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:51:08"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:54:00"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:54:15"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:55:26"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 15:59:28"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 16:01:01"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 16:31:43"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 16:44:04"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 16:44:38"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 17:37:01"}
+{"level":"info","message":{"first_name":"The first name must have more than 5 letters.","last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 18:26:28"}
+{"level":"info","message":{"first_name":"The first name must have more than 5 letters.","last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 18:27:43"}
+{"level":"info","message":{"first_name":"The first name must have more than 5 letters.","last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 18:28:11"}
+{"level":"info","message":{"first_name":"The first name must have more than 5 letters.","last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 18:28:50"}
+{"level":"info","message":{"first_name":"The first name must have more than 5 letters.","last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 18:29:04"}
+{"level":"info","message":"email or password incorrect","timestamp":"2022-05-18 18:33:36"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:23"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:23"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:36"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:36"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:38"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 18:52:38"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 19:23:47"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 19:36:18"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 19:39:03"}
+{"level":"info","message":"Error creating user: {\"last_name\":\"The last name must have more than 5 letters.\"}","timestamp":"2022-05-18 19:40:35"}
+{"level":"info","message":{"last_name":"The last name must have more than 5 letters."},"timestamp":"2022-05-18 19:40:35"}
+{"level":"info","message":"Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"users\"","timestamp":"2022-05-18 19:42:05"}
+{"level":"info","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","timestamp":"2022-05-18 19:43:35"}
+{"level":"info","message":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer","timestamp":"2022-05-18 19:44:58"}
+{"level":"info","message":"Parameter \"filter\" to deleteOne() must be an object, got :id","timestamp":"2022-05-18 19:50:28"}
+{"level":"info","message":"No token.","timestamp":"2022-05-18 19:51:44"}
