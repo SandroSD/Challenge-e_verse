@@ -43,3 +43,48 @@ To run the API use the command.
 ```
 npm run dev
 ```
+or
+```
+yarn dev
+```
+
+---
+
+## WEB
+
+### Introduction - The Project's Aim
+
+This WEB lets you create a new user to login with it, and you can see an implementation of the library three.js using react.js where you can change the shape and colour.
+
+### Technologies
+- React JS
+- React Hooks
+- Three JS
+
+### How to run this App ?
+
+To run the WEB you have to change some environment variables
+
+```
+REACT_APP_URL_API: url of the API of this project (for example: http://localhost:8000).
+```
+
+Then you have to install dependencies using the command.
+
+```
+npm install
+```
+or
+```
+yarn install
+```
+
+To run the API use the command.
+
+```
+npm start
+```
+or
+```
+yarn dev
+```
