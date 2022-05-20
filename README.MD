@@ -21,7 +21,7 @@ To run the API you have to change some environment variables
 ```
 PORT: this is the port where API runs.
 
-MONGO_URL: url of the mongo database.
+MONGO_URL: url of the mongo database. (for example if you run this in your local machine you can use this url mongodb://localhost/<name_of_database>)
 
 TOKEN_SECRETO: secret token to use on login with JWT.
 
